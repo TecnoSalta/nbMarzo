@@ -21,6 +21,8 @@ Al finalizar el proceso,
 * cómo se utilizan las siguientes funciones
 * de Java Substring(), Length(), equals().
 IDEA: Iterar mientras cadena sea distinto de :&&&&&
+* 
+* Creo que está mal porque no muestra la parte del informe se corrigió en 7V2.
  */
 public class Ej7 {
 
